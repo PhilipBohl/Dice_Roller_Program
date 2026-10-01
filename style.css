@@ -1,0 +1,25 @@
+#container{
+ font-family: Arial, sans-serif;
+ text-align: center;
+ font-size: 2rem;
+ font-weight: bold;
+
+}
+
+#rollDiceButton {
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ff0000;
+    color: white;
+    font-weight: bold;
+
+}
+
+input{
+    font-size: 2rem;
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
